@@ -12,12 +12,12 @@ Final Build
 https://drive.google.com/file/d/1e398NLorJZJXGh9gHP7Erxjwi7CyjkwV/view?usp=sharing
 
 ## Preview
-<img src="images/MainMenu.png" width="600" >
-<img src="images/Settings.png" width="600" >
-<img src="images/Controls.png" width="600" >
-<img src="images/Ch1Gameplay.png" width="600" >
-<img src="images/Ch2Gameplay.png" width="600" >
-<img src="images/Ch3Gameplay.png" width="600" >
+<img src="images/MainMenu.png" width="500" >
+<img src="images/Settings.png" width="500" >
+<img src="images/Controls.png" width="500" >
+<img src="images/Ch1Gameplay.png" width="500" >
+<img src="images/Ch2Gameplay.png" width="500" >
+<img src="images/Ch3Gameplay.png" width="500" >
 
 ## Copyright Disclaimer
 Penggunaan Aset pada proyek tersebut bertujuan hanya untuk pendidikan, riset, dan personal tidak bertujuan untuk komersil
