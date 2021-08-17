@@ -1,4 +1,5 @@
-# Lost-Reality-2D-Platforming
+# Lost Reality 2D
+Genre : 2D, Action, Side Scroller, Platformer
 Project Penulisan Ilmiah
 
 Tahun Pembuatan : 2020
