@@ -13,6 +13,8 @@ https://drive.google.com/file/d/1e398NLorJZJXGh9gHP7Erxjwi7CyjkwV/view?usp=shari
 
 ## Preview
 <img src="images/MainMenu.png" width="600" >
+<img src="images/Settings.png" width="600" >
+<img src="images/Controls.png" width="600" >
 <img src="images/Ch1Gameplay.png" width="600" >
 <img src="images/Ch2Gameplay.png" width="600" >
 <img src="images/Ch3Gameplay.png" width="600" >
