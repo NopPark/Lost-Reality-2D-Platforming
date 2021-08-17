@@ -1,4 +1,4 @@
-# LostReality-2D-Platforming
+# Lost-Reality-2D-Platforming
 Project Penulisan Ilmiah
 
 Tahun Pembuatan : 2020
