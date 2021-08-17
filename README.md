@@ -1,5 +1,8 @@
 # Lost Reality 2D
 Genre : 2D, Action, Side Scroller, Platformer
+
+Game Engine : Unreal Engine 4 Version 4.24.3
+
 Project Penulisan Ilmiah
 
 Tahun Pembuatan : 2020
